@@ -1,0 +1,3 @@
+rep "Climb_3d_Car_MiniGame@moakrma@cloud"
+  path "/"
+    smartbranch "/main"

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FirebaseLogin/FirebaseAuth.unity
+    guid: 39bf77770de9e044482e9920d7092298
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 05c1a817dc9dd4a50b95c7a3724f9eb4
+  - enabled: 1
+    path: Assets/Scenes/Map1.unity
+    guid: aa79772c54457437598bc9d4f620c37c
+  - enabled: 1
+    path: Assets/Scenes/Map2 Desert.unity
+    guid: 1a6bdcd6f67a16d409ef4d5f33bfb557
+  - enabled: 1
+    path: Assets/Scenes/Map3.unity
+    guid: 7a3b56597b4664fb686d46d554e927e2
+  - enabled: 1
+    path: Assets/Scenes/Map4.unity
+    guid: e95c0e049bd0ae744a6f66f2f6e165ce
+  - enabled: 1
+    path: Assets/Scenes/Map5.unity
+    guid: fde309445e12e944fa18c2bb02a581a7
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 5e428a8c853c8f34098cf974c33de9d7
+  m_configObjects: {}

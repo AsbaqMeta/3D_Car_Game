@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - benzinbar
+  - level
+  - ilkseviye
+  - Araba
+  - kamera_bas
+  - air_time
+  - yapay
+  - karakter_Arac
+  - loweffect
+  - wheel
+  - effect
+  - araclar_yapay
+  - Tozlar1
+  - Tozlar2
+  - Tozlar3
+  - Tozlar4
+  - x1
+  - x2
+  - x3
+  - airtimex
+  - bigair
+  - benzin
+  - rekortext
+  - sea
+  - iboreis
+  - BackroundGameSounds
+  - GameInBackround
+  - BridgeWays
+  - 2ndWays
+  - deadman
+  - water
+  - GlobalVolume
+  - ice
+  - BotPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - PostFX
+  - Kamyon
+  - YerIgnore
+  - Level
+  - tekerHus
+  - Canvas2
+  - hizrampa
+  - Level_yapici
+  - yapay_araba
+  - adam
+  - ust
+  - oldur
+  - gems
+  - sea
+  - seaspawner
+  - brokencarpart
+  - RaycastCube
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer1
+    uniqueID: 3124635335
+    locked: 0
+  - name: Layer2
+    uniqueID: 1129997229
+    locked: 0
+  - name: 3
+    uniqueID: 191238741
+    locked: 0
+  - name: 4
+    uniqueID: 1927476841
+    locked: 0
+  - name: 5
+    uniqueID: 1992114955
+    locked: 0
